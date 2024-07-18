@@ -17,7 +17,6 @@ This project is a simple CRUD Blog/Posts API built with PHP Laravel. It includes
 ```bash
 git clone https://github.com/segun-aderinola/Voyatek-Blog-APi.git
 cd Voyatek-Blog-APi
-git checkout main
 ```
 
 ### Step 2: Install Dependencies
